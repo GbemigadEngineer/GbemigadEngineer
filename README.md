@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GbemigadEngineer
-- 👀 I’m a python software engineer
-- 🌱 I’m currently learning backend with python
-- 💞️ I’m looking to collaborate on software development projects
+- 👀 I’m a python software developer
+- 🌱 I’m currently learning Javascript and backend with node.js
+- 💞️ I’m looking to collaborate on software and web development projects
 - 📫 How to reach me samueloduwolegbolahan@gmail.com
 
 <!---
