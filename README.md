@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @GbemigadEngineer
-- 👀 I’m a python software developer
-- 🌱 I’m currently learning Javascript and backend with node.js
+- 👀 I’m a software and web developer developer
+- I'm proefficient in Python, HTML, CSS, and Javascript 
+- 🌱 I’m currently learning Javascript frameworks React and Node.js
 - 💞️ I’m looking to collaborate on software and web development projects
 - 📫 How to reach me oluwagbemigaoduwole@gmail.com
 
