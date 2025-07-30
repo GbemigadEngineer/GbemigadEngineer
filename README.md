@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GbemigadEngineer
-- 👀 I’m a software and backend web developer developer
+- 👀 I’m a software and backend web developer 
 - I'm proefficient in Python, HTML, CSS, Javascript, and Node.js 
 - 🌱 I’m currently learning Javascript frameworks Node.js and Next.js
 - 💞️ I’m looking to collaborate on software and web development projects
